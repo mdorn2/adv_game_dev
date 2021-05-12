@@ -1,0 +1,547 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 32673 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mjdor/Unity Projects/FPStest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60783
+Successfully changed project path to: C:/Users/mjdor/Unity Projects/FPStest
+C:/Users/mjdor/Unity Projects/FPStest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 121.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0f1 (61a549675243)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mjdor/Unity Projects/FPStest/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005571 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 104.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.730 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011267 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3765 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.3 MB.
+
+Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 4174.
+Total: 6.028600 ms (FindLiveObjects: 0.379500 ms CreateObjectMapping: 0.098900 ms MarkObjects: 5.290400 ms  DeleteObjects: 0.258600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Bronze Pillar2.fbx
+  artifactKey: Guid(93b27aab70273bc4fbe955d44a760ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bronze Pillar2.fbx using Guid(93b27aab70273bc4fbe955d44a760ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccfd5a34003e1f47fa3cf7fc19b7be17') in 0.736713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(b0d23c7310f847546966ab9b876f6401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(b0d23c7310f847546966ab9b876f6401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383c770167aba2d0d39fbb06784ccbdd') in 0.021136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/DesertKits64_Sample.FBX
+  artifactKey: Guid(29cb0cd329284fc4c8f4015393c57e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DesertKits64_Sample.FBX using Guid(29cb0cd329284fc4c8f4015393c57e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8feea685af948f37aa16866dc60679') in 0.147041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1402.313524 seconds.
+  path: Assets/Materials/Abyss.mat
+  artifactKey: Guid(e656d4fd80f1c42418eddc05790fa03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Abyss.mat using Guid(e656d4fd80f1c42418eddc05790fa03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33f768e7d925b02fb00fa00d49136c5') in 0.114815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Materials/Wall.mat
+  artifactKey: Guid(584f81224518f20429e65faa211aafb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wall.mat using Guid(584f81224518f20429e65faa211aafb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0729a62c8609bfb993354b121034ec5a') in 0.102024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Materials/Door.mat
+  artifactKey: Guid(dbe5c255a22c7cd4ba824415b2dbac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Door.mat using Guid(dbe5c255a22c7cd4ba824415b2dbac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68982cb1ee1255e3622d58c90b7a1da6') in 0.225251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Materials/PlatPlace.mat
+  artifactKey: Guid(02c3a6402c7b6e2458153b23153ea10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlatPlace.mat using Guid(02c3a6402c7b6e2458153b23153ea10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62b20038c29810c983e72926f7c8be9') in 0.084882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Materials/Base Floor.mat
+  artifactKey: Guid(25111c0c454ab6f41a0ee38d2b84ac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Base Floor.mat using Guid(25111c0c454ab6f41a0ee38d2b84ac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5a9027da7033e6c8a5c6b55b3f7438') in 0.085130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Materials/Floor.mat
+  artifactKey: Guid(0d005c135d272184e97215d2c39d42fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.mat using Guid(0d005c135d272184e97215d2c39d42fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd123a1a871b7dbceaf26a7e9a19303a') in 0.016742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Materials/ShadowReceiver.mat
+  artifactKey: Guid(c57af84aa93d7d34780f73276605b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ShadowReceiver.mat using Guid(c57af84aa93d7d34780f73276605b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1b3b63405b31e5d71bf0676dbfaa70') in 0.022661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Materials/ToonCornflower.mat
+  artifactKey: Guid(4f30c1adb9ec5c849b36746e980649a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonCornflower.mat using Guid(4f30c1adb9ec5c849b36746e980649a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be227a9abd0a8a385c3606776d825d19') in 0.067909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Materials/New Material 1.mat
+  artifactKey: Guid(8e6c337570fe1d54e9aa8d199e9eb603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 1.mat using Guid(8e6c337570fe1d54e9aa8d199e9eb603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60c36eb3e18b33ee606790e12c5dfb0') in 0.016278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Materials/ToonGlossy.mat
+  artifactKey: Guid(f3b3738fb3608024ba94712d4daf62c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonGlossy.mat using Guid(f3b3738fb3608024ba94712d4daf62c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc743a116a9f95133bc4bd84c851037') in 0.016466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Materials/ToonTan.mat
+  artifactKey: Guid(ea988fa9618a562419453bd51c2ff8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonTan.mat using Guid(ea988fa9618a562419453bd51c2ff8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4bf7d7d63599e605e6743eaf4189604') in 0.016189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Materials/Player.mat
+  artifactKey: Guid(a7d6e58bcfa090c4e966db10081e08e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Player.mat using Guid(a7d6e58bcfa090c4e966db10081e08e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867913decd3f7a4a142e2f1611919ec2') in 0.017428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Materials/ToonGreen.mat
+  artifactKey: Guid(23e38294485842248a20d0937d14ea1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonGreen.mat using Guid(23e38294485842248a20d0937d14ea1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d88ad1bb71ffabcac6f175161cdd037') in 0.015160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.502533 seconds.
+  path: Assets/music/Abstract Experimental Track #1 (looped).wav
+  artifactKey: Guid(4ff5af09181d41f4aa50856176993c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Abstract Experimental Track #1 (looped).wav using Guid(4ff5af09181d41f4aa50856176993c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62354d3081eda66accc3076c68e70442') in 0.045420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/music/Casual Theme #4.mp3
+  artifactKey: Guid(bedc5707c3b2b424681d7f747bdb55e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Casual Theme #4.mp3 using Guid(bedc5707c3b2b424681d7f747bdb55e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b4e76cd8954b74db1dc99abc860201') in 0.016840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/music/Deep Investigation.mp3
+  artifactKey: Guid(b8fc2d9d97a2a8240b67d328e7761b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Deep Investigation.mp3 using Guid(b8fc2d9d97a2a8240b67d328e7761b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c12a88f45fac82149da128171575dc') in 0.015797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/music/Deal with those Pieces.mp3
+  artifactKey: Guid(b36bfef961045ed4180d463ef074279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Deal with those Pieces.mp3 using Guid(b36bfef961045ed4180d463ef074279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd517ed26a1158edf2485b9c0b7eb10c9') in 0.016345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/music/Casual Theme #3.mp3
+  artifactKey: Guid(924e01a2d52e0f24ab4e3bc4cb4ba262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Casual Theme #3.mp3 using Guid(924e01a2d52e0f24ab4e3bc4cb4ba262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ac23ee76acfe0626e3575000ff2a71') in 0.016134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/music/In a Hurry.mp3
+  artifactKey: Guid(7a396c5fd5766ab41a512b8a94419377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/In a Hurry.mp3 using Guid(7a396c5fd5766ab41a512b8a94419377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc79bdc2fb7a3057f49ff73a4cdec27f') in 0.017943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/music/Trapped in a Map.mp3
+  artifactKey: Guid(967b3e8748cdf0047bf3fd2fec4d9036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/music/Trapped in a Map.mp3 using Guid(967b3e8748cdf0047bf3fd2fec4d9036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1003324ee66147affa23cf89bb3f68c7') in 0.014770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.397299 seconds.
+  path: Assets/Prefabs/bullet.prefab
+  artifactKey: Guid(10231f474621e52478a8f3ed65d50769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bullet.prefab using Guid(10231f474621e52478a8f3ed65d50769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5add41109c11d1c996feee56808988ed') in 0.018195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Prefabs/Enemy.prefab
+  artifactKey: Guid(20fd7af3e4e81d14fbbf869c864076ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy.prefab using Guid(20fd7af3e4e81d14fbbf869c864076ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df41d8d0bb3baacf6bd5334770c686a') in 0.008878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Prefabs/Platform.prefab
+  artifactKey: Guid(d8b985e5720b40e45ac2f0910070d857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platform.prefab using Guid(d8b985e5720b40e45ac2f0910070d857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c3787aea84deadf4763c487173bbab') in 0.016135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.566991 seconds.
+  path: Assets/Sprites/herehaveapixprofpic.png
+  artifactKey: Guid(ce662b547186bcb45b738e10ae49bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/herehaveapixprofpic.png using Guid(ce662b547186bcb45b738e10ae49bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff779825720 (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(ce662b547186bcb45b738e10ae49bff7) Importer(-1,00000000000000000000000000000000), Assets/Sprites/herehaveapixprofpic.png from editor
+Resuming Guid(ce662b547186bcb45b738e10ae49bff7) Importer(-1,00000000000000000000000000000000) -> c5e340428c671e42a56fbe0bf8277d15 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Assertion failed on expression: 'ins.second || ins.first->second == artifactID || (ins.first->second == CircularDependencyArtifactID() && !artifactID.IsValid()) || GetPathFromAssetGuidV2(key.GetGUID()).ends_with(".cs")'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff7798060a1 (Unity) ProduceArtifactV2
+0x00007ff77979fade (Unity) AssetDatabase::ProduceArtifact
+0x00007ff77978b078 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff779825a3e (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(ce662b547186bcb45b738e10ae49bff7) Importer(-1,00000000000000000000000000000000), Assets/Sprites/herehaveapixprofpic.png from editor
+Resuming Guid(ce662b547186bcb45b738e10ae49bff7) Importer(-1,00000000000000000000000000000000) -> c5e340428c671e42a56fbe0bf8277d15 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: '8149ae59e55d3043c2947a532fd18522') in 0.446689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sprites/vjou8YAREHmsuI4jFlrBVOSorbbVIuUoIoWRbH5k0rj6x0we1j7hZnqkCKGI9k6GyFbn-5T77KIsydfObOj3rlrPw1NPB1HXFhY6.png
+  artifactKey: Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/vjou8YAREHmsuI4jFlrBVOSorbbVIuUoIoWRbH5k0rj6x0we1j7hZnqkCKGI9k6GyFbn-5T77KIsydfObOj3rlrPw1NPB1HXFhY6.png using Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff779825720 (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(-1,00000000000000000000000000000000), Assets/Sprites/vjou8YAREHmsuI4jFlrBVOSorbbVIuUoIoWRbH5k0rj6x0we1j7hZnqkCKGI9k6GyFbn-5T77KIsydfObOj3rlrPw1NPB1HXFhY6.png from editor
+Resuming Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(-1,00000000000000000000000000000000) -> 4769da5f5f377e27a2dc7ddaa14157e1 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Assertion failed on expression: 'ins.second || ins.first->second == artifactID || (ins.first->second == CircularDependencyArtifactID() && !artifactID.IsValid()) || GetPathFromAssetGuidV2(key.GetGUID()).ends_with(".cs")'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff7798060a1 (Unity) ProduceArtifactV2
+0x00007ff77979fade (Unity) AssetDatabase::ProduceArtifact
+0x00007ff77978b078 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff779825a3e (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(-1,00000000000000000000000000000000), Assets/Sprites/vjou8YAREHmsuI4jFlrBVOSorbbVIuUoIoWRbH5k0rj6x0we1j7hZnqkCKGI9k6GyFbn-5T77KIsydfObOj3rlrPw1NPB1HXFhY6.png from editor
+Resuming Guid(1d617b65dee864c4ea56bcebaf176cb8) Importer(-1,00000000000000000000000000000000) -> 4769da5f5f377e27a2dc7ddaa14157e1 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: '5507a9cb99e9fc6c128ef3a16508bf00') in 0.009506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/index.png
+  artifactKey: Guid(c7013ee99bd60c349bd05abe2937389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/index.png using Guid(c7013ee99bd60c349bd05abe2937389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff779825720 (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(c7013ee99bd60c349bd05abe2937389b) Importer(-1,00000000000000000000000000000000), Assets/Sprites/index.png from editor
+Resuming Guid(c7013ee99bd60c349bd05abe2937389b) Importer(-1,00000000000000000000000000000000) -> 23c20aa1bebd1ba64782a53f78261c1f 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Assertion failed on expression: 'ins.second || ins.first->second == artifactID || (ins.first->second == CircularDependencyArtifactID() && !artifactID.IsValid()) || GetPathFromAssetGuidV2(key.GetGUID()).ends_with(".cs")'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff7798060a1 (Unity) ProduceArtifactV2
+0x00007ff77979fade (Unity) AssetDatabase::ProduceArtifact
+0x00007ff77978b078 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff779825a3e (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(c7013ee99bd60c349bd05abe2937389b) Importer(-1,00000000000000000000000000000000), Assets/Sprites/index.png from editor
+Resuming Guid(c7013ee99bd60c349bd05abe2937389b) Importer(-1,00000000000000000000000000000000) -> 23c20aa1bebd1ba64782a53f78261c1f 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: 'd09403e48904c229c580087d48663244') in 0.009944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057169 seconds.
+  path: Assets/Texture/screenTransition.renderTexture
+  artifactKey: Guid(505c3dae299748a4797d4e76942a41d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/screenTransition.renderTexture using Guid(505c3dae299748a4797d4e76942a41d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d233750c5550ea75441e7798165367d') in 0.023809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.715722 seconds.
+  path: Assets/Scenes/LevelSelect.unity
+  artifactKey: Guid(ec055ecbae755aa43b722de4a9e3b402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LevelSelect.unity using Guid(ec055ecbae755aa43b722de4a9e3b402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b542e355478b86f751d51915b851a1be') in 0.007963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.957633 seconds.
+  path: Assets/Scenes/Scene.unity
+  artifactKey: Guid(0401cb630985521478149a3cd185ab43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene.unity using Guid(0401cb630985521478149a3cd185ab43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d2b54469256df1320ad2c7ebb50828') in 0.007773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.626334 seconds.
+  path: Assets/Scenes/TutorialLevel.unity
+  artifactKey: Guid(847997eb503a7a34eb171bc3d4a15c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TutorialLevel.unity using Guid(847997eb503a7a34eb171bc3d4a15c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f8c922ce4f4956447916fff774b494') in 0.007947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.997558 seconds.
+  path: Assets/Scenes/Mikes Level 1.unity
+  artifactKey: Guid(d54c96e65551d914ea8d0235611f67cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Mikes Level 1.unity using Guid(d54c96e65551d914ea8d0235611f67cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b68a9fd731aed233aaa3dfb8ad51110') in 0.007704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.836611 seconds.
+  path: Assets/Scenes/JonLevel1.unity
+  artifactKey: Guid(dd83a3d13a9f4384b852208c35302e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/JonLevel1.unity using Guid(dd83a3d13a9f4384b852208c35302e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0117c4ac7e3c9f89f6bcf1ef05f3779d') in 0.008251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.813801 seconds.
+  path: Assets/Scenes/finish.unity
+  artifactKey: Guid(32527e4e9a21d9c4aa949f5cf91fe26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/finish.unity using Guid(32527e4e9a21d9c4aa949f5cf91fe26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfa5c6c689a413c2332709fa3943d56') in 0.007946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.367253 seconds.
+  path: Assets/Scenes/DonutOfDoom.unity
+  artifactKey: Guid(0a34a75b18b1f8741bf1c97535983d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/DonutOfDoom.unity using Guid(0a34a75b18b1f8741bf1c97535983d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b8d2f90372f12e937a5f7bbdd28c2b') in 0.008309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.173306 seconds.
+  path: Assets/Scenes/Credits.unity
+  artifactKey: Guid(d7847f2a7cbd94c43ad0f07091f6d28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Credits.unity using Guid(d7847f2a7cbd94c43ad0f07091f6d28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16443e544fffcbba8b6bab7da3ee7188') in 0.007802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.455369 seconds.
+  path: Assets/Scenes/clusterDuck.unity
+  artifactKey: Guid(73f2b9328d1247349aa4af2c1121e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/clusterDuck.unity using Guid(73f2b9328d1247349aa4af2c1121e832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d5fdcf3d9646bf76ef53b4ed302b4d') in 0.008179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.247410 seconds.
+  path: Assets/Scenes/cadeTest.unity
+  artifactKey: Guid(54983bf25bf82a144b57a2d24ebfa0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/cadeTest.unity using Guid(54983bf25bf82a144b57a2d24ebfa0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034faad86e46a190744bde3b12efbb5d') in 0.007850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.370412 seconds.
+  path: Assets/Scenes/Scene
+  artifactKey: Guid(d780137d56307ca418eba7dc108eeb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene using Guid(d780137d56307ca418eba7dc108eeb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd0ca6a420c8708e42e6b82f0bc7edd') in 0.007783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079852 seconds.
+  path: Assets/Scenes/Scene/LightingData.asset
+  artifactKey: Guid(063aed02917e1f3478a0869336e611fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene/LightingData.asset using Guid(063aed02917e1f3478a0869336e611fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac449ad22ad09c95f65233acea632223') in 0.008671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scenes/Scene/ReflectionProbe-0.exr
+  artifactKey: Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene/ReflectionProbe-0.exr using Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff779825720 (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(-1,00000000000000000000000000000000), Assets/Scenes/Scene/ReflectionProbe-0.exr from editor
+Resuming Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(-1,00000000000000000000000000000000) -> fa5ad7e87eb47e7894d6f91ac2ad0c8b 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Assertion failed on expression: 'ins.second || ins.first->second == artifactID || (ins.first->second == CircularDependencyArtifactID() && !artifactID.IsValid()) || GetPathFromAssetGuidV2(key.GetGUID()).ends_with(".cs")'
+
+Diagnostics callstack to track who triggered the sub-import:
+0x00007ff77983b172 (Unity) ImporterAssetResolver::ResolveAsset
+0x00007ff77980dd52 (Unity) ResolveArtifactV2
+0x00007ff7798060a1 (Unity) ProduceArtifactV2
+0x00007ff77979fade (Unity) AssetDatabase::ProduceArtifact
+0x00007ff77978b078 (Unity) PreviewImporter::GenerateAssetData
+0x00007ff779825a3e (Unity) ImportToObjects
+0x00007ff779824a38 (Unity) ImportAsset
+0x00007ff7797c216f (Unity) AssetImportWorker::Import
+0x00007ff7797e5102 (Unity) <lambda_9a0c3c600e605f826d039b184a304624>::operator()
+0x00007ff779869992 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007ff77986bc00 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007ff77986f2ee (Unity) asio::io_service::run
+0x00007ff77980e97a (Unity) RunAssetImportWorkerClientV2
+0x00007ff77980e9d0 (Unity) RunAssetImporterV2
+0x00007ff779316056 (Unity) Application::InitializeProject
+0x00007ff779721797 (Unity) WinMain
+0x00007ff77b281422 (Unity) __scrt_common_main_seh
+0x00007ff891707034 (KERNEL32) BaseThreadInitThunk
+0x00007ff892cdd241 (ntdll) RtlUserThreadStart
+
+Requesting import of Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(-1,00000000000000000000000000000000), Assets/Scenes/Scene/ReflectionProbe-0.exr from editor
+Resuming Guid(1db9a915fd5e0c24b8b13c06062892a0) Importer(-1,00000000000000000000000000000000) -> fa5ad7e87eb47e7894d6f91ac2ad0c8b 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: '33a43f22379a4ccd869f4c8aa7df790e') in 0.013360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.752434 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(d0cee1ae4e0433c44b5793f7bb452cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(d0cee1ae4e0433c44b5793f7bb452cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466fa9f21cf130f5a4a0552c201b8258') in 0.007781 seconds 
